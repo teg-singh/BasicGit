@@ -1,6 +1,6 @@
 public class BasicGit {
 	public static void main(String[] args) {
-		print(10);
+		print(20);
 	}
 	
 	public static void print(int a) {
